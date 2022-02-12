@@ -1,6 +1,8 @@
-My pet ECommerce App.
+My pet E-Commerce App.
 
 Mobile (Flutter) + Server (Django)
+
+Username: admin + Password: chau1234
 
 Preview
 
